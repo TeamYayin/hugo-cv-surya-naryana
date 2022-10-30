@@ -1,15 +1,22 @@
 [
-    {
-        "school":"[Rochester Institute of Technology](https://rit.edu)",
-        "degree":"Bachelor of Science",
-        "major":"Management Information Systems",
-        "notes":"Beta Gamma Signma, High Honors",
-        "range":"2006 - 2008"
-    },
-    {
-        "school":"Clinton Community College",
-        "degree":"Associate of Applied Science",
-        "major":"Computer Information Systems",
-        "range":"2004 - 2006"
-    }
+  {
+    "school": "[Jahawarlal Nehru Technological University](https://jntuh.ac.in)",
+    "degree": "Doctor of Philosophy (Ph.D)",
+    "major": "Computer Science & Engineering",
+    "notes": "Beta Gamma Signma, High Honors",
+    "range": "2006 - 2008"
+  },
+  {
+    "school": "Annamacharya Institute of Technology and Sciences (Autonomous)",
+    "degree": "Master of Technology",
+    "major": "Computer Science",
+    "range": "2004 - 2006"
+  },
+  {
+    "school": "[Rochester Institute of Technology](https://rit.edu)",
+    "degree": "Bachelor of Science",
+    "major": "Management Information Systems",
+    "notes": "Beta Gamma Signma, High Honors",
+    "range": "2006 - 2008"
+  }
 ]
