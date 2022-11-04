@@ -3,20 +3,25 @@
     "school": "[Jahawarlal Nehru Technological University](https://jntuh.ac.in)",
     "degree": "Doctor of Philosophy (Ph.D)",
     "major": "Computer Science & Engineering",
-    "notes": "Beta Gamma Signma, High Honors",
+    "range": "2012 - 2019"
+  },
+  {
+    "school": "[Annamacharya Institute of Technology and Sciences](https://aitsrajampet.ac.in/)",
+    "degree": "Master of Technology",
+    "major": "Computer Science & Engineering",
+    "notes": "Rajampet, Andhra Pradesh",
     "range": "2006 - 2008"
   },
   {
-    "school": "Annamacharya Institute of Technology and Sciences (Autonomous)",
-    "degree": "Master of Technology",
-    "major": "Computer Science",
+    "school": "[Sri Venkatesawara University](https://svuniversity.edu.in/)",
+    "degree": "Master of Science",
+    "major": "Mathematics",
     "range": "2004 - 2006"
   },
   {
-    "school": "[Rochester Institute of Technology](https://rit.edu)",
+    "school": "[Sri Krishnadevaraya University](http://www.skuniversity.ac.in/)",
     "degree": "Bachelor of Science",
-    "major": "Management Information Systems",
-    "notes": "Beta Gamma Signma, High Honors",
-    "range": "2006 - 2008"
+    "major": "Computer Science",
+    "range": "2001 - 2003"
   }
 ]
