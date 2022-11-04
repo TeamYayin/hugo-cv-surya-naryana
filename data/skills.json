@@ -28,30 +28,25 @@
   {
     "grouping": "Post Graduate Courses",
     "skills": [
-      "Atlassian",
-      "Bamboo",
-      "Bitbucket",
-      "NGINX",
-      "MySQL",
-      "Wordpress"
+      { "name": "Compiler Design", "icon": "html5_multimedia" },
+      { "name": "Operating Systems", "icon": "html5_multimedia" },
+      { "name": "Machine Learning", "icon": "html5_multimedia" },
+      { "name": "Data Warehousing & Data Mining", "icon": "html5_multimedia" },
+      { "name": "Artificial Intelligence", "icon": "html5_multimedia" }
     ]
   },
   {
     "grouping": "Programming Languages, Data Management, Operating Systems & Tools",
     "skills": [
-      "Java",
+      "C",
+      "C++",
       "Python",
-      "git",
-      "subversion",
-      "linux",
-      "bash",
-      "php",
-      "jquery",
+      "Latex",
       "javascript",
       { "name": "Microsoft SQL Server", "icon": "msql_server" },
       { "name": "Oracle", "icon": "database" },
       "MongoDB",
-      { "name": "Apache Spark" },
+      { "name": "Jupyter", "icon": "Python"},
       { "name": "AWS", "link": "https://aws.amazon.com" },
       { "name": "Google Cloud", "link": "https://cloud.google.com" },
       { "name": "Linux", "link": "https://bosh.io" }
