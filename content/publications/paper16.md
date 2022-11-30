@@ -3,8 +3,8 @@ title: "Clinical Skin Disease Detection and Classification: Ensembled VGG"
 date: 2020-01-01
 pubtype: "Paper"
 featured: false
-description: "Authors: Gogineni Saikiran, G Surya Narayana, Dhanrajnath Porika, Gunjan Vinit Kumar"
-tags: ["Machine Learning"]
+description: "Authors: Gogineni Saikiran, G Suryanarayana, Dhanrajnath Porika, Gunjan Vinit Kumar"
+tags: ["Scopus","Machine Learning"]
 link: "https://link.springer.com/chapter/10.1007/978-981-15-7234-0_78"
 weight: 400
 sitemap:

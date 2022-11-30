@@ -3,8 +3,8 @@ title: "A Traditional Analysis for Efficient Data Mining with Integrated Associa
 date: 2020-01-01
 pubtype: "Paper"
 featured: true
-description: "Authors: G SuryaNarayana, Kamakshaiah Kolli, Mohd Dilshad Ansari, Vinit Kumar Gunjan"
-tags: ["DevOps","Continuous Integration","Continuous Delivery","CI/CD pipelines","agile","Culture"]
+description: "Authors: G Suryanarayana, Kamakshaiah Kolli, Mohd Dilshad Ansari, Vinit Kumar Gunjan"
+tags: ["Scopus","Machine Learning"]
 
 link: "https://link.springer.com/chapter/10.1007/978-981-15-7961-5_127"
 fact: "Interesting little tidbit shown below image on summary and detail page"

@@ -3,8 +3,8 @@ title: "An Approach for Morphological Analyzer Rules for Dravidian Telugu Langua
 date: 2020-10-12
 pubtype: "Paper"
 featured: false
-description: "Authors: Midde Venkateswarlu Naik, Mohd Dilshad Ansari, Vinit Kumar Gunjan, G Surya Narayana"
-tags: ["Machine Learning"]
+description: "Authors: Midde Venkateswarlu Naik, Mohd Dilshad Ansari, Vinit Kumar Gunjan, G Suryanarayana"
+tags: ["Scopus","Natural Language Processing", "NLP"]
 link: "https://link.springer.com/chapter/10.1007/978-981-15-7961-5_126"
 weight: 400
 sitemap:

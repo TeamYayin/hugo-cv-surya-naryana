@@ -4,7 +4,7 @@ date: 2020-09-10
 pubtype: "Paper"
 featured: false
 description: "Authors: Saikiran Gogineni, G Suryanarayana, Narla Swapna"
-tags: ["Machine Learning"]
+tags: ["Scopus","Machine Learning"]
 link: "https://ieeexplore.ieee.org/abstract/document/9215439"
 weight: 400
 sitemap:

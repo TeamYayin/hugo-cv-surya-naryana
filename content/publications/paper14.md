@@ -3,8 +3,8 @@ title: "OTP-ER: An ordered transmission paradigm for effective routing in IoT ba
 date: 2022-07-01
 pubtype: "Paper"
 featured: false
-description: "Authors: C Jothi Kumar, V Deeban Chakravarthy, Kadiyala Ramana, Praveen Kumar Reddy Maddikunta, Qin Xin, G Surya Narayana"
-tags: ["Machine Learning"]
+description: "Authors: C Jothi Kumar, V Deeban Chakravarthy, Kadiyala Ramana, Praveen Kumar Reddy Maddikunta, Qin Xin, G Suryanarayana"
+tags: ["SCI","Internet of Things","Wireless Networks"]
 link: "https://link.springer.com/article/10.1007/s11082-022-03837-y"
 weight: 400
 sitemap:

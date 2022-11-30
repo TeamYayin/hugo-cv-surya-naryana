@@ -3,8 +3,8 @@ title: "Instantaneous Approach for Evaluating the Initial Centers in the Agricul
 date: 2022-01-01
 pubtype: "Paper"
 featured: false
-description: "Authors: G Surya Narayana, Mohd Dilshad Ansari, Vinit Kumar Gunjan"
-tags: ["DevOps","Continuous Integration","Continuous Delivery","CI/CD pipelines","agile","Culture"]
+description: "Authors: G Suryanarayana, Mohd Dilshad Ansari, Vinit Kumar Gunjan"
+tags: ["Scopus","Machine Learning"]
 
 link: "https://journals.riverpublishers.com/index.php/JMM/article/view/7005"
 weight: 400

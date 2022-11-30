@@ -4,7 +4,7 @@ date: 2022-01-01
 pubtype: "Paper"
 featured: false
 description: "Authors: Saikiran Gogineni, G Suryanarayana, KLS Soujanya"
-tags: ["DevOps","Continuous Integration","Continuous Delivery","CI/CD pipelines","agile","Culture"]
+tags: ["Scopus","Deep Learning"]
 link: "https://ieeexplore.ieee.org/abstract/document/9215414"
 weight: 400
 sitemap:

@@ -3,8 +3,8 @@ title: "Forecasting of Covid-19 Virus Spread Using Machine Learning Algorithm"
 date: 2021-04-19
 pubtype: "Paper"
 featured: false
-description: "Authors: P Chandra Shaker Reddy, Yadala Sucharitha, G Surya Narayana"
-tags: ["Machine Learning"]
+description: "Authors: P Chandra Shaker Reddy, Yadala Sucharitha, G Suryanarayana"
+tags: ["Journal","Machine Learning", "COVID-19"]
 link: "https://www.iaras.org/iaras/home/caijbb/forecasting-of-covid-19-virus-spread-using-machine-learning-algorithm"
 weight: 400
 sitemap:
