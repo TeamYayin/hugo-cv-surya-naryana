@@ -4,7 +4,7 @@ date: 2022-01-01
 pubtype: "Paper"
 featured: false
 description: "Authors: V Kakulapati, D Vasumathi, G Suryanarayana"
-tags: ["DevOps","Continuous Integration","Continuous Delivery","CI/CD pipelines","agile","Culture"]
+tags: ["Scopus","Machine Learning"]
 link: "https://pdfs.semanticscholar.org/4a8c/a1100f695669c9a3abba6130d69dd9421f00.pdf"
 weight: 400
 sitemap:

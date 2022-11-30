@@ -1,4 +1,4 @@
-title = 'G Surya Narayana'
+title = 'Dr. G.Suryanarayana'
 baseURL = 'https://g-suryanaryana.in/'
 theme = "resume"
 languageCode = "en-us"
@@ -11,8 +11,8 @@ enableGitInfo = true
 address = "Hyderabad, TG, IN"
 email = "surya.aits@gmail.com"
 favicon = "/favicon.ico"
-firstName = "Surya Naryana"
-lastName = "G"
+firstName = "Suryanarayana"
+lastName = "Goddumarri"
 phone = "91-988-570-9675"
 profileImage = "img/TechChat.png"
 showEducation = true
@@ -27,11 +27,11 @@ showSkills = true
 
 
 [[params.handles]]
-link = "https://in.linkedin.com/in/suryanarayana-goddumarri-64133a1b4"
+link = "https://in.linkedin.com/in/dr-suryanarayana-goddumarri-64133a1b4"
 name = "LinkedIn"
 
 [[params.handles]]
-link = "https://github.com/#"
+link = "https://github.com/gsn-123"
 name = "GitHub"
 
 [[params.handles]]

@@ -3,8 +3,8 @@ title: "Optimization of K-Means Clustering with Modified Spiral Phenomena"
 date: 2022-01-01
 pubtype: "Paper"
 featured: false
-description: "Authors: LNC Prakash K, G Surya Narayana, MD Ansari, VK Gunjan"
-tags: ["DevOps","Continuous Integration","Continuous Delivery","CI/CD pipelines","agile","Culture"]
+description: "Authors: LNC Prakash K, G Suryanarayana, MD Ansari, VK Gunjan"
+tags: ["Scopus","Machine Learning"]
 link: "https://link.springer.com/chapter/10.1007/978-981-16-7985-8_126"
 weight: 400
 sitemap:

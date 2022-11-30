@@ -3,8 +3,8 @@ title: "Fuzzy-Based Approach for Clustering Data with Multivalued Features"
 date: 2022-05-22
 pubtype: "Paper"
 featured: false
-description: "Authors: M Vimaladevi, V Deeban Chakravarthy, G Surya Narayana, Asadi Srinivasulu"
-tags: ["Machine Learning"]
+description: "Authors: M Vimaladevi, V Deeban Chakravarthy, G Suryanarayana, Asadi Srinivasulu"
+tags: ["SCI","Machine Learning","Fuzzy Logic"]
 link: "https://www.proquest.com/openview/7f63f22b92073c83438f20214d0a83ba/1?pq-origsite=gscholar&cbl=2034344"
 weight: 400
 sitemap:

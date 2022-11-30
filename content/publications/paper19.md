@@ -4,7 +4,7 @@ date: 2022-03-19
 pubtype: "Paper"
 featured: false
 description: "Authors: G Suryanarayana, LNC Prakash K, PC Mahesh, T Bhaskar"
-tags: ["Machine Learning"]
+tags: ["SCI","Machine Learning"]
 link: "https://link.springer.com/article/10.1007/s11042-022-12126-5"
 weight: 400
 sitemap:

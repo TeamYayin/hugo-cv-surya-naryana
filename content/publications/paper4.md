@@ -3,8 +3,8 @@ title: "Development of Rainfall Forecasting Model Using Machine Learning with Si
 date: 2022-01-01
 pubtype: "Paper"
 featured: false
-description: "Authors: Goddumarri Suryanarayan Pundru Chandra Shaker Reddy, Yadla Sucharitha"
-tags: ["DevOps","Continuous Integration","Continuous Delivery","CI/CD pipelines","agile","Culture"]
+description: "Authors: Goddumarri Suryanarayana, Pundru Chandra Shaker Reddy, Yadla Sucharitha"
+tags: ["Scopus","Machine Learning"]
 
 link: "https://journals.iium.edu.my/ejournal/index.php/iiumej/article/view/1822"
 

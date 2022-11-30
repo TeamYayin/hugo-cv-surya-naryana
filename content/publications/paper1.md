@@ -3,8 +3,8 @@ title: "An attributes similarity-based K-medoids clustering technique in data mi
 date: 2018-08-01
 pubtype: "Paper"
 featured: true
-description: "Authors: G Surya Narayana, D Vasumathi"
-tags: ["DevOps","Continuous Integration","Continuous Delivery","CI/CD pipelines","agile","Culture"]
+description: "Authors: G Suryanarayana, D Vasumathi"
+tags: ["SCI","Machine Learning"]
 
 link: "https://link.springer.com/article/10.1007/s13369-017-2761-2"
 fact: "Interesting little tidbit shown below image on summary and detail page"

@@ -3,8 +3,8 @@ title: "Fuzzy K-means clustering with fast density peak clustering on multivaria
 date: 2021-01-01
 pubtype: "Paper"
 featured: false
-description: "Authors: G Surya Narayana, Kamakshaiah Kolli"
-tags: ["DevOps","Continuous Integration","Continuous Delivery","CI/CD pipelines","agile","Culture"]
+description: "Authors: G Suryanarayana, Kamakshaiah Kolli"
+tags: ["SCI","Machine Learning","Fuzzy Logic"]
 
 link: "https://link.springer.com/article/10.1007/s11042-020-09718-4"
 weight: 400

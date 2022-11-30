@@ -3,8 +3,8 @@ title: "A Novel Association Approach to Generate Patterns for Multi-valued Data 
 date: 2020-10-12
 pubtype: "Paper"
 featured: false
-description: "Authors: Prakash K, K LNCAnuradha, G SuryaNarayana"
-tags: ["Machine Learning"]
+description: "Authors: Prakash K, K LNCAnuradha, G Suryanarayana"
+tags: ["Scopus","Machine Learning"]
 link: "https://link.springer.com/chapter/10.1007/978-981-15-7961-5_121"
 weight: 400
 sitemap:

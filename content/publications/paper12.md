@@ -4,7 +4,7 @@ date: 2020-09-10
 pubtype: "Paper"
 featured: false
 description: "Authors: Saikiran Gogineni, G Suryanarayana, Sravan Kumar Surendran"
-tags: ["Neural Networks"]
+tags: ["Scopus","Natural Language Processing","NLP","Neural Networks"]
 link: "https://ieeexplore.ieee.org/abstract/document/9215347/"
 weight: 400
 sitemap:

@@ -3,8 +3,8 @@ title: "Clustering for high dimensional categorical data based on text similarit
 date: 2016-11-26
 pubtype: "Paper"
 featured: false
-description: "Authors: G Surya Narayana, Vasuamthi D"
-tags: ["DevOps","Continuous Integration","Continuous Delivery","CI/CD pipelines","agile","Culture"]
+description: "Authors: G Suryanarayana, D Vasuamthi"
+tags: ["Conference","Machine Learning","ACM"]
 
 link: "https://dl.acm.org/doi/abs/10.1145/3018009.3018022"
 weight: 400

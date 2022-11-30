@@ -1,11 +1,10 @@
 ---
-title: "
-5G integrated spectrum selection and spectrum access using AI-based frame work for IoT based sensor networks"
+title: "5G integrated spectrum selection and spectrum access using AI-based frame work for IoT based sensor networks"
 date: 2021-02-26
 pubtype: "Paper"
 featured: true
-description: "Authors: G Surya Narayana, D Vasumathi"
-tags: ["DevOps","Continuous Integration","Continuous Delivery","CI/CD pipelines","agile","Culture"]
+description: "Authors: G Suryanarayana, D Vasumathi"
+tags: ["SCI","Artifical Intelligence", "Internet of Things"]
 
 link: "https://www.sciencedirect.com/science/article/abs/pii/S1389128620312676"
 fact: "Interesting little tidbit shown below image on summary and detail page"
