@@ -1,5 +1,5 @@
 title = 'Dr. G.Suryanarayana'
-baseURL = 'https://g-suryanaryana.in/'
+baseURL = 'https://g-suryanarayana.in/'
 theme = "resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
