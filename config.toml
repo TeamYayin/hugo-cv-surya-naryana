@@ -18,6 +18,7 @@ profileImage = "img/TechChat.png"
 showEducation = true
 showExperience = true
 showOpenSource = true
+openSourceAlternateName = "Patents"
 showProjects = true
 showPublications = true
 showQr = true
@@ -37,6 +38,7 @@ name = "GitHub"
 [[params.handles]]
 link = "https://vidwan.inflibnet.ac.in/profile/237869"
 name = "Vidwan"
+icon = "vine"
 
 [[params.handles]]
 link = "https://scholar.google.co.in/citations?user=PvxaIVsAAAAJ"
