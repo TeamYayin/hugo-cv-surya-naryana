@@ -1,0 +1,15 @@
+.bg-primary {
+  background-color: #234057 !important;
+}
+
+.text-primary {
+  color: #468499 !important;
+}
+
+a {
+  color: #468499;
+}
+
+img {
+  max-width: 80%;
+}

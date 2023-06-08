@@ -1,0 +1,63 @@
+title = 'Dr. G.Suryanarayana'
+baseURL = 'https://g-suryanarayana.in/'
+theme = "resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = true
+
+[params]
+address = "Hyderabad, TG, IN"
+email = "hello@g-suryanarayana.in"
+favicon = "/favicon.ico"
+firstName = "Suryanarayana"
+lastName = "Goddumarri"
+phone = "+91-988-570-9675"
+profileImage = "img/TechChat.png"
+showEducation = true
+showExperience = true
+showOpenSource = true
+openSourceAlternateName = "Patents"
+showProjects = true
+showPublications = true
+showQr = true
+showSkills = true
+
+[params.google]
+
+
+[[params.handles]]
+link = "https://in.linkedin.com/in/dr-suryanarayana-goddumarri-64133a1b4"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/gsn-123"
+name = "GitHub"
+
+[[params.handles]]
+link = "https://vidwan.inflibnet.ac.in/profile/237869"
+name = "Vidwan"
+icon = "vine"
+
+[[params.handles]]
+link = "https://scholar.google.co.in/citations?user=PvxaIVsAAAAJ"
+name = "Google Scholar"
+
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    tabWidth = 4
+    style = "tango"

@@ -1,0 +1,55 @@
+[
+  {
+    "grouping": "UG Courses Taught",
+    "skills": [
+      { "name": "C & Data Structures", "icon": "html5_multimedia" },
+      { "name": "C++ & Advanced Data Structures", "icon": "html5_multimedia" },
+      "Python",
+      {
+        "name": "Mathematical Foundations of Computer Science",
+        "icon": "html5_multimedia"
+      },
+      { "name": "Digital Logic Design", "icon": "html5_multimedia" },
+      {
+        "name": "Formal Languages and Automata Theory",
+        "icon": "html5_multimedia"
+      },
+      {
+        "name": "Design and Analysis of Algorithms",
+        "icon": "html5_multimedia"
+      },
+      { "name": "Compiler Design", "icon": "html5_multimedia" },
+      { "name": "Operating Systems", "icon": "html5_multimedia" },
+      { "name": "Machine Learning", "icon": "html5_multimedia" },
+      { "name": "Data Warehousing & Data Mining", "icon": "html5_multimedia" },
+      { "name": "Artificial Intelligence", "icon": "html5_multimedia" }
+    ]
+  },
+  {
+    "grouping": "Post Graduate Courses",
+    "skills": [
+      { "name": "Compiler Design", "icon": "html5_multimedia" },
+      { "name": "Operating Systems", "icon": "html5_multimedia" },
+      { "name": "Machine Learning", "icon": "html5_multimedia" },
+      { "name": "Data Warehousing & Data Mining", "icon": "html5_multimedia" },
+      { "name": "Artificial Intelligence", "icon": "html5_multimedia" }
+    ]
+  },
+  {
+    "grouping": "Programming Languages, Data Management, Operating Systems & Tools",
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Latex",
+      "javascript",
+      { "name": "Microsoft SQL Server", "icon": "msql_server" },
+      { "name": "Oracle", "icon": "database" },
+      "MongoDB",
+      { "name": "Jupyter", "icon": "Python"},
+      { "name": "AWS", "link": "https://aws.amazon.com" },
+      { "name": "Google Cloud", "link": "https://cloud.google.com" },
+      { "name": "Linux", "link": "https://bosh.io" }
+    ]
+  }
+]
