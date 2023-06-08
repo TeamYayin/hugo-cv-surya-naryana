@@ -8,7 +8,7 @@ describe("empty spec", () => {
   });
 
   it("navigates to the publications page", () => {
-    cy.get('a[href="/https://g-suryanarayana.in/publications/"]').eq(0).click();
+    cy.get('a[href="https://g-suryanarayana.in/publications/"]').eq(0).click();
     cy.url().should("include", "/publications");
     cy.get("h1").contains("publications");
   });
